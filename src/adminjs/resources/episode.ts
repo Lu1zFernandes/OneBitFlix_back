@@ -38,7 +38,7 @@ export const episodeResourceFeatures: FeatureType[] = [
   uploadFileFeature({
     provider: {
       local: {
-        bucket: path.join(__dirname, "..", "..", "..", "uploads"),
+        bucket: path.join(__dirname, "../../../uploads"),
       },
     },
     properties: {
