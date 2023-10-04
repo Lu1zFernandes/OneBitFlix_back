@@ -15,7 +15,6 @@ export const coursesController = {
   },
 
   //GET /courses/newest
-  // GET /courses/newest
   newest: async (req: Request, res: Response) => {
     try {
       const newestCourses = await courseService.getTopTenNewest();
