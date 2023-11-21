@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-onebitflixbackend-staging-130822-authRole",
+      "UnauthRoleArn": "arn:aws:iam::161276983991:role/amplify-onebitflixbackend-staging-130822-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::161276983991:role/amplify-onebitflixbackend-staging-130822-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-onebitflixbackend-staging-130822-deployment",
+      "UnauthRoleName": "amplify-onebitflixbackend-staging-130822-unauthRole",
+      "StackName": "amplify-onebitflixbackend-staging-130822",
+      "StackId": "arn:aws:cloudformation:sa-east-1:161276983991:stack/amplify-onebitflixbackend-staging-130822/b9024a80-8225-11ee-9d9b-0aa8e0338d6a",
+      "AmplifyAppId": "dgax3l4br5hk8"
+    }
+  }
+}
